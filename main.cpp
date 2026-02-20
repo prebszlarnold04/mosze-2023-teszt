@@ -29,5 +29,8 @@ int main()
     std::cout << "Atlag: " << atlag << std::endl;
     
     delete[] b;
+
+
+    std::cout << "Nagyon mokas ez a projekt!" << std::endl;
     return 0;
 }
